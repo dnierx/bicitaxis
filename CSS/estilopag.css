@@ -1,0 +1,69 @@
+
+
+h1{
+    font-size: 40px;
+    font-family: algerian;
+    font-weight: bold;
+    color: #bf0000;
+}
+h2{
+    font: 20px bold aharoni;
+
+}
+
+
+article,nav,aside,footer {
+    display: block;
+    color:white;
+}
+body{
+    text-align: center;
+    background-color: black
+
+  
+}
+.agrupar{
+    width: 1000px;
+    background: black;
+    margin: 15px auto;
+    padding: 40px;
+    border: 1px solid red
+}
+.menu li {
+    list-style: none;
+    border: 1px solid red;
+    padding:20px;
+    font: bold 14px algerian;
+    display: inline-block
+}
+.cuadros {
+       margin:20px;
+       width: 600px;
+       float:left;
+}
+
+article {
+
+    border:1px solid red;
+    background: #111111;
+    padding: 20px;
+    margin-bottom: 15px;
+
+
+}
+
+.ladito {
+
+        width: 300px;
+        border: 1px solid red;
+        float: left;
+        margin: 20px 0;
+
+}
+
+.pie{
+
+        clear:both;
+        padding: 20px;
+
+}
